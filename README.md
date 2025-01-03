@@ -22,7 +22,4 @@ This repository showcases the tasks I completed during my 1-month internship, hi
 ## 🚀 About the Internship  
 This repository is part of my internship with **Oasis Infobyte (OIBSIP)**, where I enhanced my skills and gained practical experience in **web development and design**.  
 
-Feel free to explore the projects, and don't hesitate to leave your feedback or suggestions! 🌟  
 
----  
-⭐ *If you like the work, consider giving this repository a star!*  
